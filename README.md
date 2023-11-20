@@ -137,3 +137,4 @@ void winrt::MyPen::implementation::MainWindow::CanvasControl_PointerMoved(winrt:
 ```
 
 실행 결과
+![Image description](./1.PNG)</br>
